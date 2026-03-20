@@ -27,7 +27,7 @@ React • Node.js • MySQL • Firebase • REST APIs
 Power BI • Tableau • Excel (Advanced, OpenSolver)  
 
 **Tools**  
-Git • GitHub • VS Code • SAP • Figma • Arena  
+VS Code • SAP • Figma • Arena  
 
 **Other**  
 Agile/Scrum • Optimization (CPLEX, Gurobi) • API Integration  
